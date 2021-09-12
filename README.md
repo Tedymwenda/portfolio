@@ -1,4 +1,4 @@
-# Cleanfolio - a clean and simple portfolio template
+# portfolio - a clean and simple portfolio template
 
 It is built using React.
 
